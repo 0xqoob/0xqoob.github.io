@@ -56,6 +56,10 @@ p .path {
     size: 25px;
 }
 
+b {
+    color: #D6D6D6
+}
+
 h1, h2, h3 { color: #FFFFFF; }
 
 h1 {
